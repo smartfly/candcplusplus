@@ -1,0 +1,13 @@
+#test_1
+ADD_EXECUTABLE(basic_data_type data_type.cpp)
+ADD_EXECUTABLE(basic_sum sum.cpp)
+ADD_EXECUTABLE(basic_number number.cpp)
+ADD_EXECUTABLE(basic_random random.cpp)
+ADD_EXECUTABLE(basic_array array.cpp)
+ADD_EXECUTABLE(basic_string string.cpp)
+ADD_EXECUTABLE(basic_pointer pointer.cpp)
+ADD_EXECUTABLE(basic_reference reference.cpp)
+ADD_EXECUTABLE(basic_time time.cpp)
+ADD_EXECUTABLE(basic_input_output input_output.cpp)
+ADD_EXECUTABLE(basic_struct struct.cpp)
+ADD_EXECUTABLE(basic_szieof sizeof.cpp)

@@ -1,2 +1,7 @@
 #test_1
 ADD_EXECUTABLE(epoll_et epoll_et_model.cpp)
+ADD_EXECUTABLE(epoll_et_model_cycle epoll_et_model_cycle.cpp)
+ADD_EXECUTABLE(epoll_el epoll_lt_model.cpp)
+ADD_EXECUTABLE(epoll_el_clear_buffer epoll_lt_model_clear_buffer.cpp)
+ADD_EXECUTABLE(epoll_et_model_out.cpp epoll_et_model_out.cpp)
+ADD_EXECUTABLE(epoll_et_model_out_line epoll_et_model_out_line.cpp)

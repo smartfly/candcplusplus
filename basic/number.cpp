@@ -2,6 +2,7 @@
 // Created by taohu on 2020/4/4.
 //
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main () {
@@ -25,6 +26,8 @@ int main () {
     cout << "long   l :" << l << endl;
     cout << "float  f :" << f << endl;
     cout << "double d :" << d << endl;
-    return 0;
+
+    return
 }
+
 

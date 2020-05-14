@@ -1,6 +1,6 @@
 //
 // Created by smartfly on 2020/4/29.
-// c++ use two float
+// c++ use two float https://draveness.me/whys-the-design-decimal-and-rational/
 //
 #include <iostream>
 #include <iomanip>

@@ -1,0 +1,3 @@
+ADD_EXECUTABLE(dagger_find_repeat_number find_repeat_number.cpp)
+ADD_EXECUTABLE(dagger_find_number_in_two_array find_number_in_two_array.cpp)
+ADD_EXECUTABLE(dagger_replace replace_space.cpp)

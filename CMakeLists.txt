@@ -10,5 +10,6 @@ ADD_SUBDIRECTORY(class)
 ADD_SUBDIRECTORY(epoll_study)
 ADD_SUBDIRECTORY(advance)
 ADD_SUBDIRECTORY(dagger_gesture_offer)
+ADD_SUBDIRECTORY(prime)
 
 # add_executable(HelloWorld main.cpp basic/func_demo.cpp)

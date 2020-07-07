@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(use_new use_new.cpp)

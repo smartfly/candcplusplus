@@ -1,0 +1,2 @@
+#test_1
+ADD_EXECUTABLE(switch_case_compare_if_else switch_case_compare_if_else.c)

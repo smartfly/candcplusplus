@@ -12,5 +12,6 @@ ADD_SUBDIRECTORY(advance)
 ADD_SUBDIRECTORY(dagger_gesture_offer)
 ADD_SUBDIRECTORY(prime)
 ADD_SUBDIRECTORY(source_analysis)
+ADD_SUBDIRECTORY(leet_code)
 
 # add_executable(HelloWorld main.cpp basic/func_demo.cpp)

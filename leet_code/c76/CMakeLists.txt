@@ -1,1 +1,0 @@
-ADD_EXECUTABLE(c76 c76.cpp)

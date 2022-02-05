@@ -82,6 +82,13 @@
     }
     ```
 
+# [手把手带你刷二叉树（第二期）](https://labuladong.github.io/algo/2/18/23/)
+- [654.最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
+- [105.从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [106.从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+- [889.根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+
+
 # [滑动窗口算法](https://labuladong.github.io/algo/2/21/60/)
 - [76.最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 - [567.字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
